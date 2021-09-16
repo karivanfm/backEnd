@@ -6,7 +6,7 @@ const manager = {
     name: 'bos',
     age: 37
 };
-/*test 3*/
+
 const empl1 = {
     name: 'John Popescu',
     age: 22
