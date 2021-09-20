@@ -2,5 +2,6 @@
     "eslint.validate": [
         "javascript",
         "typescript",
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
